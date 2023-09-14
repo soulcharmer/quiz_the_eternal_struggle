@@ -1,0 +1,123 @@
+
+# reveal_path : "https://cdn.jsdelivr.net/npm/reveal.js@4.1.0"
+reveal_path : ".."
+reveal_theme : "beige"
+custom_css : "deveal.css"
+
+authors : "Tomáš Čapek"
+title : "Quiz: the Eternal Struggle"
+subtitle : "part of Pulled Fang #12"
+
+
+content_files : [
+  "sections/intro.html",
+  "sections/round1-topic1.html",
+  "sections/round1-topic2.html",
+  "sections/round2-topic1.html",
+  "sections/round2-topic2.html",
+  "sections/round3-topic1.html",
+  "sections/round3-topic2.html",
+#  "sections/round4-topic1.html",
+#  "sections/round4-topic2.html",
+  "sections/bonus.html",
+  "sections/outro.html"
+]
+
+# topic-slide-bgcolor : #930b0b
+
+topic1 : "Do you know your crypt cards?"
+subtitle_topic1 : "3-6"
+
+q1 : "Identify a VTES crypt card:<br/><br/> <b>aus dom FOR OBT POT</b> "
+a1 : "Percival "
+q2 : "Identify a VTES crypt card:<br/><br/> <b>obf AUS CEL POT QUI</b> "
+a2 : "Massassi "
+q3 : "Identify a VTES crypt card: "
+a3 : "Osric Vladislav"
+q4 : "Identify a VTES crypt card: "
+a4 : "Szechenyi Jolán, Mother of Horrors"
+q5 : "Identify a VTES crypt card. <br/> For a partial answer, who’s in the photo (full name)?"
+a5 : "Kiradin, Agnetha Fältskog of ABBA"
+
+topic2 : "Do you know your library cards?"
+subtitle_topic2 : "Magic of VTES"
+
+q6 : "Identify a VTES library card: " 
+a6 : "Island of Yiaros " 
+q7 : "Identify a VTES library card: " 
+a7 : "Movement of the Slow Body " 
+q8 : "Identify a VTES library card: " 
+a8 : "Unleash the Hounds " 
+q9 : "Identify a VTES library card: " 
+a9 : "Dive into Madness, Descent into Darkness " 
+q10 : "Identify a VTES library card: "
+a10 : "Detect Authority "
+
+topic3 : "Do you know your crypt cards?"
+subtitle_topic3 : "part 2 - all groups included"
+
+q11 : "What are the full names of these vampires? No typos allowed for the comlete answer. <br/> For a partial answer, identify clans of all three."
+a11 : "Paolo Sardenzo (Giovanni), Joshua Tarnopolski (Brujah), Aredhel (Salubri antitribu) "
+q12 : "What are the full names ot these vampires? No typos allowed for the complete answer."
+a12 : "Miller Delmardigan, Teacher of Bahari; Jeremy \"Wix\" Wyzchovsky"
+q13 : "What are the rule texts of these vampires?"
+a13 : "Camarilla primogen: Appolonius gets one optional press each combat. +1 bleed.<br/>
+Independent: After Bez leaves the ready region, discard 2 cards at random. "
+q14 : "Only two vampires in VTES have <b>DOM DEM PRE</b> (among other disciplines). Name at least one.<br/>Bonus: Only one vampire in VTES has <b>FOR NEC OBT</b>. Which one? "
+a14 : "Esau, Johannes Castelein, Luca Italicus "
+q15 : "Name all vampires with <b>Flight</b> that are not Gargoyles."
+a15 : "The Kikiyaon, Count Vladimir Rustovitch, The Dracon "
+
+topic4 : "Random round"
+subtitle_topic4 : "there's a method to the madness"
+
+q16 : "Which VTES artist is known for frequently using photographs in his collages, sometimes overlaying each other?"
+a16 : "Lawrence Snelly"
+q17 : "Name all vampires from group 7."
+a17 : "Carmelita Neillson, Okulos, Victoria Ash, Kevin Jackson"
+q18 : "When was the V:EKN community founded? For a partial answer, tolerance of one year."
+a18 : "The V:EKN was founded in <b>1997</b>, right before Wizards of the Coast officially re-released The Sabbat. A vote was conducted on the V:TES-L mailing list to determine a name for the V:TES Players’ Organization, the first Chairman of which was Robert Goudie."
+q19 : "What of the following is true about Tegyrius, Vizier, a promotional card created for the War of Ages Kickstarter campaign run by By Night Studios?"
+a19 : "b), d) "
+q20 : "Which celebrity was the model for the illustration of Urraca?"
+a20 : "Sophia Loren"
+
+
+topic5 : "Do you know your lore?"
+subtitle_topic5 : "lore is life"
+
+q21 : "(vulgar) The hunting ground of choice, including bars, nightclubs, drug dens, and other bacchanalian locales, where mortals go missing all the time."
+a21 : "The Rack"
+q22 : "A vampire who remains outside the larger Kindred society of a given city, either by ignorance or choice. Usually considered an Anarch by members of the Camarilla, though most of these vampires have nothing to do with the Movement."
+a22 : "Autarkis (archaic), Unbound (for 1 point)"
+q23 : "What is the code name used by a unit of federal agencies in multiple countries, as well as the Society of Leopold, also known as the Second Inquisition to the Kindred? For a bonus point, how are vampires and other supernaturals referred to in this organization?"
+a23 : "FIRSTLIGHT, blank body"
+q24 : "What is the name of the secret society governing the clan Lasombra, responsible for the decision to defect from Sabbat to the Camarilla?"
+a24 : "Friends of the Night (Amici Noctis)"
+q25 : "In WoD V5, what are the Banes and the Compulsions of the clan Nosferatu and Ventrue? For a bonus point, name them for the clan Tzimisce as well."
+a25 : "Nosferatu<br>
+Bane: Repulsiveness - their visage breaches the Masquerade easily<br>
+Compulsion: Cryptophilia - hunger for secrets<br>
+Ventrue<br>
+Bane: Rarefied tastes - can’t feed from animals or lowlifes<br>
+Compulsion: Arrogance - need to rule<br>
+Tzimisce<br>
+Bane: Grounded - cannot travel freely<br>
+Compulsion: Covetousness - obsession to possess"
+
+topic6 : "Do you know your rules?"
+subtitle_topic6 : "in VTES, reading the card does NOT explain the card"
+
+q26 : "Can <b>Flaming Candle</b> be moved by <b>Heidelberg Castle, Germany</b>? Mark all correct options below:"
+a26 : "b), e)"
+q27 : "The general types of minion cards are as follows. What does the last icon represent?"
+a27 : "Reflex cards: A minion can play a reflex card to cancel a specified kind of card played against him as it is played."
+q28 : "Saulot, playing Anesthetic Touch at <b>OBE</b>, fights Theo Bell, playing Dust Up at <b>cel</b>. Mark all correct answers below."
+a28 : "All options are incorrect O:-)"
+q29 : "Consider Riposte. Mark the following statements as True or False:"
+a29 : "T, F, F, T, T, F"
+q30 : "Mark the following statements as True or False:"
+a30 : "T, F, T, F"
+
+bq : "In how many tournament-winning decks since 1997 (TWDA) has the card <b>Sport Bike</b> been recorded? The number of copies in individual decks is unimportant."
+ba : "177"
